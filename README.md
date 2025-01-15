@@ -1,4 +1,4 @@
-# Iofma Music School Dashboard
+# Iofma Music School Dashboard Overview 
 
 ## Why I Chose This Project
 
