@@ -88,4 +88,28 @@ This dashboard is not just a visualization tool—it’s a decision-making asset
 
 This project demonstrates the power of data to drive strategic decisions, optimize operations, and enhance the overall experience for students and instructors.
 
-Thank you for exploring my project. I hope it inspires you to see how data can transform everyday operations. If you have feedback or would like to discuss this project further, please connect with me—I’d love to hear your thoughts!
+
+# Files and Folders
+
+- **[collaboration.md](#)**  
+  Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
+
+- **[dashboard.xlsx](#)**  
+  Contains the interactive Excel dashboard with all the visualizations, data, and analyses.
+
+- **[faq.md](#)**  
+  Frequently asked questions about the project.
+
+- **[development_plans.md](#)**  
+  Lists future development plans and enhancements for the project.
+
+- **[learnings.md](#)**  
+  Documents the key learnings and insights gained during the project.
+
+- **[license.md](#)**  
+  Includes the license details for this project.
+
+- **[dataset/](#)**  
+  Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
+
+
