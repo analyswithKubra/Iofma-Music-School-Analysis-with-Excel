@@ -93,28 +93,20 @@ This project demonstrates the power of data to drive strategic decisions, optimi
 - **[collaboration.md](collaboration.md)**  
   Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
 
-- **[sql queries](sql_queries.md)**  
-  Please click if you want to see only the SQL queries used in the analysis.
-
-- **[business questions.md](business_questions.md)**  
-  Please click if you want to explore the key business questions driving the analysis.
-
-- **[database ER diagram (crow's foot)](database_ER_diagram.png)**  
-  Contains the Entity-Relationship diagram that explains the structure of the database.
-
-- **[development plans.md](development_plans.md)**  
-  Lists future development plans and enhancements for the project.
+- **[dashboard.xlsx](dashboard.xlsx)**  
+  Contains the interactive Excel dashboard with all the visualizations, data, and analyses.
 
 - **[faq.md](faq.md)**  
   Frequently asked questions about the project.
 
+- **[development_plans.md](development_plans.md)**  
+  Lists future development plans and enhancements for the project.
+
 - **[learnings.md](learnings.md)**  
-  Documents the key learnings and insights gained during the analysis.
+  Documents the key learnings and insights gained during the project.
 
 - **[license.md](license.md)**  
   Includes the license details for this project.
 
 - **[dataset/](dataset/)**  
   Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
-
-
