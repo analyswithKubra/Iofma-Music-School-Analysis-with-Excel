@@ -1,4 +1,4 @@
-Please click the watch dashboard overview https://www.youtube.com/watch?v=m13o5aqeCbM 
+Please click to watch the live demo and see how the dashboard works: https://www.youtube.com/watch?v=m13o5aqeCbM.
 
 <img width="967" alt="Screenshot 2025-01-16 at 1 26 40 PM" src="https://github.com/user-attachments/assets/863813fe-615c-4e1a-81de-10710d27c882" />
 
