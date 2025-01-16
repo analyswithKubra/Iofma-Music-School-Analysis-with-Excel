@@ -91,25 +91,25 @@ This project demonstrates the power of data to drive strategic decisions, optimi
 
 # Files and Folders
 
-- **[collaboration.md](#)**  
+- **[collaboration.md](<your-repo-url>/blob/main/collaboration.md)**  
   Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
 
-- **[dashboard.xlsx](#)**  
+- **[dashboard.xlsx](<your-repo-url>/blob/main/dashboard.xlsx)**  
   Contains the interactive Excel dashboard with all the visualizations, data, and analyses.
 
-- **[faq.md](#)**  
+- **[faq.md](<your-repo-url>/blob/main/faq.md)**  
   Frequently asked questions about the project.
 
-- **[development_plans.md](#)**  
+- **[development_plans.md](<your-repo-url>/blob/main/development_plans.md)**  
   Lists future development plans and enhancements for the project.
 
-- **[learnings.md](#)**  
+- **[learnings.md](<your-repo-url>/blob/main/learnings.md)**  
   Documents the key learnings and insights gained during the project.
 
-- **[license.md](#)**  
+- **[license.md](<your-repo-url>/blob/main/license.md)**  
   Includes the license details for this project.
 
-- **[dataset/](#)**  
+- **[dataset/](<your-repo-url>/tree/main/dataset)**  
   Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
 
 
