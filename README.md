@@ -88,28 +88,33 @@ This dashboard is not just a visualization tool—it’s a decision-making asset
 
 This project demonstrates the power of data to drive strategic decisions, optimize operations, and enhance the overall experience for students and instructors.
 
-
 # Files and Folders
 
-- **[collaboration.md](<your-repo-url>/blob/main/collaboration.md)**  
+- **[collaboration.md](collaboration.md)**  
   Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
 
-- **[dashboard.xlsx](<your-repo-url>/blob/main/dashboard.xlsx)**  
-  Contains the interactive Excel dashboard with all the visualizations, data, and analyses.
+- **[sql queries](sql_queries.md)**  
+  Please click if you want to see only the SQL queries used in the analysis.
 
-- **[faq.md](<your-repo-url>/blob/main/faq.md)**  
-  Frequently asked questions about the project.
+- **[business questions.md](business_questions.md)**  
+  Please click if you want to explore the key business questions driving the analysis.
 
-- **[development_plans.md](<your-repo-url>/blob/main/development_plans.md)**  
+- **[database ER diagram (crow's foot)](database_ER_diagram.png)**  
+  Contains the Entity-Relationship diagram that explains the structure of the database.
+
+- **[development plans.md](development_plans.md)**  
   Lists future development plans and enhancements for the project.
 
-- **[learnings.md](<your-repo-url>/blob/main/learnings.md)**  
-  Documents the key learnings and insights gained during the project.
+- **[faq.md](faq.md)**  
+  Frequently asked questions about the project.
 
-- **[license.md](<your-repo-url>/blob/main/license.md)**  
+- **[learnings.md](learnings.md)**  
+  Documents the key learnings and insights gained during the analysis.
+
+- **[license.md](license.md)**  
   Includes the license details for this project.
 
-- **[dataset/](<your-repo-url>/tree/main/dataset)**  
+- **[dataset/](dataset/)**  
   Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
 
 
