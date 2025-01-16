@@ -90,23 +90,20 @@ This project demonstrates the power of data to drive strategic decisions, optimi
 
 # Files and Folders
 
-- **[collaboration.md](collaboration.md)**  
+- **[collaboration.md](https://github.com/analyswithKubra/Iofma-Music-School-Analysis-with-Excel/blob/main/collaboration.md)**  
   Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
 
-- **[dashboard.xlsx](dashboard.xlsx)**  
+- **[Download Dashboard.xlsx](https://github.com/analyswithKubra/Iofma-Music-School-Analysis-with-Excel/blob/main/Download%20Dashboard%20.xlsx)**  
   Contains the interactive Excel dashboard with all the visualizations, data, and analyses.
 
-- **[faq.md](faq.md)**  
-  Frequently asked questions about the project.
-
-- **[development_plans.md](development_plans.md)**  
+- **[development plan.md](https://github.com/analyswithKubra/Iofma-Music-School-Analysis-with-Excel/blob/main/devolopment%20plan.md)**  
   Lists future development plans and enhancements for the project.
 
-- **[learnings.md](learnings.md)**  
+- **[fqa.md](https://github.com/analyswithKubra/Iofma-Music-School-Analysis-with-Excel/blob/main/fqa.md)**  
+  Frequently asked questions about the project.
+
+- **[learnings.md](https://github.com/analyswithKubra/Iofma-Music-School-Analysis-with-Excel/blob/main/learnings.md)**  
   Documents the key learnings and insights gained during the project.
 
-- **[license.md](license.md)**  
+- **[license.md](https://github.com/analyswithKubra/Iofma-Music-School-Analysis-with-Excel/blob/main/license.md)**  
   Includes the license details for this project.
-
-- **[dataset/](dataset/)**  
-  Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
